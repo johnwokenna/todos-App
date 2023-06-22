@@ -1,0 +1,15 @@
+Uses of phython
+
+1. web development (web site and web app) to build websites or web app you need Phython web framework tool like (flask or jango). Need to know HTML as well and css
+
+ javascripts sometimes
+
+2. Data Science, machine learning and AI
+
+3. Automations (generating pdf, batches, etc)
+
+4. General programming
+
+5. web scraping (used for online networks, etc)
+
+6. Others: desktop apps, data analysis, APIs

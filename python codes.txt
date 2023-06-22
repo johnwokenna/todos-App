@@ -1,0 +1,34 @@
+prompt = 'Enter a todo: '
+todos = []
+while true:
+  todo = input(prompt)
+  todos.append(todo)
+  print(todos)
+
+
+
+
+
+todos = []
+
+while true:
+  user_action = input('Type, show or exit: ')
+
+  match user_action:
+  case 'add':
+     todo = input('Enter a todo')
+     todos.append(todo)
+  case 'show':
+     print(todos)
+  case 'exit':
+     break
+print ('Bye for now')
+  
+
+reddit
+
+stack of flow
+
+discord
+
+(070 3242 8461 - First bank manager
