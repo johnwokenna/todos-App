@@ -3,6 +3,7 @@ import time
 
 mytime = time.strftime("%d - %b - %Y %H:%M:%S")
 print("My date/time stamp is",mytime)
+print("I added git")
 
 while True:
     user_action = input("Type Add, Show, edit, complete or Exit ")
