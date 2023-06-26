@@ -1,10 +1,10 @@
 import functions
-import PySimpleGUI as sg
+import PySimpleGUI as Sg
 
-label = sg.Text("Type in a to-do")
-input_box = sg.InputText(tooltip="Enter todo")
-add_button = sg.Button("Add")
+label = Sg.Text("Type in a to-do")
+input_box = Sg.InputText(tooltip="Enter todo")
+add_button = Sg.Button("Add")
 
-windows = sg.Window("My first Windows - To do App", layout=[[label], [input_box, add_button]])
+windows = Sg.Window("My first Windows - To do App", layout=[[label], [input_box, add_button]])
 windows.read()
 windows.close()

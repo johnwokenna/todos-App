@@ -1,5 +1,6 @@
 FILEPATH = 'Data\\todos.txt'
 
+
 def get_todos(filepath=FILEPATH):
     """ a function that reads opens and read the file"""
     with open(filepath, 'r') as file_local:
