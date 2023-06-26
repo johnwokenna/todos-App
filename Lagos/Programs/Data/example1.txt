@@ -1,4 +1,0 @@
-If you want to get all the text as one single string.
-If you want to get separate strings for each line.
-How is the with-context manager actually able to close the file when we are not including the close() method?
-The close() method is called implicitly even though we don't call it explicitly. The Python interpreter will call the method when it sees that we have written a with-context manager.
