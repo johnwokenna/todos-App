@@ -2,7 +2,6 @@ import streamlit as St
 import functions
 
 
-#filepath = r"C:\Users\user\My Python\app1\data\todo.txt"
 todos = functions.get_todos()
 
 
